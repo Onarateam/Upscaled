@@ -1,0 +1,772 @@
+fileFormatVersion: 2
+guid: 3aac40e753690d64688a8bb380f66ce5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4461119755764788210
+    second: undead_attack_sheet_0
+  - first:
+      213: -7107637729975276077
+    second: undead_attack_sheet_1
+  - first:
+      213: -267568735432667451
+    second: undead_attack_sheet_2
+  - first:
+      213: 1436518828159539673
+    second: undead_attack_sheet_3
+  - first:
+      213: 5688236929447210046
+    second: undead_attack_sheet_4
+  - first:
+      213: 3296148925881349337
+    second: undead_attack_sheet_5
+  - first:
+      213: -4790219378972418632
+    second: undead_attack_sheet_6
+  - first:
+      213: -379134035731712225
+    second: undead_attack_sheet_7
+  - first:
+      213: -5300546343163017644
+    second: undead_attack_sheet_8
+  - first:
+      213: 4778751430600651912
+    second: undead_attack_sheet_9
+  - first:
+      213: 7085219111132134450
+    second: undead_attack_sheet_10
+  - first:
+      213: -384218107231596311
+    second: undead_attack_sheet_11
+  - first:
+      213: -5153128266201876505
+    second: undead_attack_sheet_12
+  - first:
+      213: 2022126624698996617
+    second: undead_attack_sheet_13
+  - first:
+      213: -4103843489660439642
+    second: undead_attack_sheet_14
+  - first:
+      213: 4115960677262708875
+    second: undead_attack_sheet_15
+  - first:
+      213: 4781212433474325021
+    second: undead_attack_sheet_16
+  - first:
+      213: 6644371352906908286
+    second: undead_attack_sheet_17
+  - first:
+      213: 8340646539014879595
+    second: undead_attack_sheet_18
+  - first:
+      213: -2379811496301505041
+    second: undead_attack_sheet_19
+  - first:
+      213: 1756178121178899673
+    second: undead_attack_sheet_20
+  - first:
+      213: -7144254773933775897
+    second: undead_attack_sheet_21
+  - first:
+      213: -5407877989343454819
+    second: undead_attack_sheet_22
+  - first:
+      213: -2108600247680580931
+    second: undead_attack_sheet_23
+  - first:
+      213: 7152127389547695853
+    second: undead_attack_sheet_24
+  - first:
+      213: -5725821741565446591
+    second: undead_attack_sheet_25
+  - first:
+      213: 5143302679037371176
+    second: undead_attack_sheet_26
+  - first:
+      213: 326086279367214932
+    second: undead_attack_sheet_27
+  - first:
+      213: 7930844926641714667
+    second: undead_attack_sheet_28
+  - first:
+      213: -2289980737045401707
+    second: undead_attack_sheet_29
+  - first:
+      213: -6403814202818379580
+    second: undead_attack_sheet_30
+  - first:
+      213: -3829605513266952320
+    second: undead_attack_sheet_31
+  - first:
+      213: 7824777951915001852
+    second: undead_attack_sheet_32
+  - first:
+      213: -1416391901855047548
+    second: undead_attack_sheet_33
+  - first:
+      213: -2133940988513981764
+    second: undead_attack_sheet_34
+  - first:
+      213: 886916349738166675
+    second: undead_attack_sheet_35
+  - first:
+      213: 7578059324239719173
+    second: undead_attack_sheet_36
+  - first:
+      213: 4460649688741468392
+    second: undead_attack_sheet_37
+  - first:
+      213: 4276334351263840640
+    second: undead_attack_sheet_38
+  - first:
+      213: -7413331763678547225
+    second: undead_attack_sheet_39
+  - first:
+      213: 7691468431004406228
+    second: undead_attack_sheet_40
+  - first:
+      213: 3103165008573734822
+    second: undead_attack_sheet_41
+  - first:
+      213: -522013243460966585
+    second: undead_attack_sheet_42
+  - first:
+      213: -5752876322208345210
+    second: undead_attack_sheet_43
+  - first:
+      213: 1211773614163752290
+    second: undead_attack_sheet_44
+  - first:
+      213: -6989723620754373247
+    second: undead_attack_sheet_45
+  - first:
+      213: 2407016117930143223
+    second: undead_attack_sheet_46
+  - first:
+      213: 1734836278329446968
+    second: undead_attack_sheet_47
+  - first:
+      213: 7655795915010578992
+    second: undead_attack_sheet_48
+  - first:
+      213: -6187699623014453345
+    second: undead_attack_sheet_49
+  - first:
+      213: -5700637391374746832
+    second: undead_attack_sheet_50
+  - first:
+      213: -3736458787391804516
+    second: undead_attack_sheet_51
+  - first:
+      213: -2320378991412050594
+    second: undead_attack_sheet_52
+  - first:
+      213: -988393957805492204
+    second: undead_attack_sheet_53
+  - first:
+      213: 4094043225350902357
+    second: undead_attack_sheet_54
+  - first:
+      213: 6966582860698415596
+    second: undead_attack_sheet_55
+  - first:
+      213: 286272709547935665
+    second: undead_attack_sheet_56
+  - first:
+      213: -333762901091925641
+    second: undead_attack_sheet_57
+  - first:
+      213: 2225406983329894046
+    second: undead_attack_sheet_58
+  - first:
+      213: -9124115297161102644
+    second: undead_attack_sheet_59
+  - first:
+      213: -8435301940391878939
+    second: undead_attack_sheet_60
+  - first:
+      213: 7802214878475716242
+    second: undead_attack_sheet_61
+  - first:
+      213: 2865537158134684241
+    second: undead_attack_sheet_62
+  - first:
+      213: 7027346141047956234
+    second: undead_attack_sheet_63
+  - first:
+      213: 6938211564061165394
+    second: undead_attack_sheet_64
+  - first:
+      213: -3782862610601832655
+    second: undead_attack_sheet_65
+  - first:
+      213: -6997279916284728653
+    second: undead_attack_sheet_66
+  - first:
+      213: -2909015661758944940
+    second: undead_attack_sheet_67
+  - first:
+      213: -8334784295804167929
+    second: undead_attack_sheet_68
+  - first:
+      213: 3350258804349989916
+    second: undead_attack_sheet_69
+  - first:
+      213: 5226700108734135848
+    second: undead_attack_sheet_70
+  - first:
+      213: 8043802104786783325
+    second: undead_attack_sheet_71
+  - first:
+      213: -9119451131073304867
+    second: undead_attack_sheet_72
+  - first:
+      213: -2497676756097297933
+    second: undead_attack_sheet_73
+  - first:
+      213: 5646988585879818803
+    second: undead_attack_sheet_74
+  - first:
+      213: -87593278145010288
+    second: undead_attack_sheet_75
+  - first:
+      213: 951417000441356584
+    second: undead_attack_sheet_76
+  - first:
+      213: 8278789417802862942
+    second: undead_attack_sheet_77
+  - first:
+      213: -3769529804768977554
+    second: undead_attack_sheet_78
+  - first:
+      213: 5335856074404308930
+    second: undead_attack_sheet_79
+  - first:
+      213: 5018542423800237935
+    second: undead_attack_sheet_80
+  - first:
+      213: -1051675898550612556
+    second: undead_attack_sheet_81
+  - first:
+      213: -403204232314368028
+    second: undead_attack_sheet_82
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 10
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: undead_attack_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 56
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9630193eb5869eb4c9d2436baee60cea
+      internalID: 4461119755764788210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: undead_attack_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 0
+        width: 56
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e122a2c6beb31b141854048ea4ea6780
+      internalID: -7107637729975276077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: undead_attack_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 56
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fc940b5b3eade247a09dd1e7b1a8395
+      internalID: -267568735432667451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: undead_attack_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 0
+        width: 56
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a17576918af7ec4aa87e4fb34dfbbcf
+      internalID: 1436518828159539673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: undead_attack_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 56
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63ae27326ec98404694848114dc9d639
+      internalID: 5688236929447210046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: undead_attack_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 0
+        width: 56
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11efd98cd6c56834c80984f9831ee06d
+      internalID: 3296148925881349337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: undead_attack_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 0
+        width: 56
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dca6106e159b2ec48b8a350f5d60b70e
+      internalID: -4790219378972418632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: undead_attack_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 0
+        width: 56
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f1c8c3104e23d346af1c0c525d8e8aa
+      internalID: -379134035731712225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: undead_attack_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0
+        width: 56
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b8177e29352cc74a88a9fea21466539
+      internalID: -5300546343163017644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: undead_attack_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 0
+        width: 56
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77ed1387706596e47a4d038c679f7e5e
+      internalID: 4778751430600651912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: undead_attack_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 0
+        width: 56
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e77295f7ad66cf4a959f76dbe93f099
+      internalID: 7085219111132134450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: undead_attack_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 0
+        width: 56
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3943885135dda4e4585941a54ffc03db
+      internalID: -384218107231596311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: undead_attack_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 0
+        width: 56
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4083844ed35043d489110ade613e0046
+      internalID: -5153128266201876505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: undead_attack_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 0
+        width: 56
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2ce704498a184c4ba8afec923f1f788
+      internalID: 2022126624698996617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: undead_attack_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 0
+        width: 56
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daa92f16fe70d124fa9a3ac85c06ae8d
+      internalID: -4103843489660439642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: undead_attack_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 0
+        width: 56
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f245c6e5ba2be744b131393a56b4738
+      internalID: 4115960677262708875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: undead_attack_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 0
+        width: 56
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da6861476295e5f4db4ae4796e44f6fb
+      internalID: 4781212433474325021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: undead_attack_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 0
+        width: 56
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f5db8eaa5d0c494fb3a1721f9d728a9
+      internalID: 6644371352906908286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: undead_attack_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 0
+        width: 56
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 863963964634a10478c126636b854d11
+      internalID: 8340646539014879595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: undead_attack_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 0
+        width: 56
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7364d4c14e49c242b7e1b3d25c1b215
+      internalID: -2379811496301505041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
